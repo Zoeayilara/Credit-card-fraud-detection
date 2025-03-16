@@ -84,7 +84,7 @@ Clone the Repository:
 
 bash
 Copy
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git clone https://github.com/Zoeayilara/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 Set Up the Backend:
 
